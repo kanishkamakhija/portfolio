@@ -1,0 +1,23 @@
+.margin-bottom-5 {
+    margin-bottom: 5vh;
+}
+body {
+    font-family: 'Lora', serif;
+    color: #747704;
+    font-weight: 300;
+}
+.text-muted {
+    color: #BCBBBB;
+}
+.text-thin {
+    font-weight: 100;
+}
+.title-logo {
+    margin-top: 20px;
+}
+.title-super {
+    font-size: 60px;
+}
+.sub-title {
+		font-size: 20px; 
+}
